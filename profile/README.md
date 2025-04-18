@@ -38,6 +38,38 @@ You can explore all the available standalone resources here:
 - akaLucifer - Maintainer
 - Rhodinium - TxAdmin Recipe and reposotory maintainer
 
+## 👥 Contributors
+
+We’re incredibly thankful to everyone who has contributed to the development and evolution of the Mythic Framework. Here are the amazing people who’ve helped shape it:
+
+- **Treyyyy**
+- **akaLucifer**
+- **tyh**
+- **DrBooly (Van Man)**
+- **TobiiDev**
+- **Alzar**
+- **DrNick**
+- **r3dfox**
+- **OnlyMeGio**
+- **PyrexDev**
+- **MythicPD**
+- **ILegendary**
+- **xRival**
+- **ThatZiv**
+- **AlmightyFoe**
+- **IStunna**
+- **eaglestrike**
+- **HAYZ**
+- **NotDaPapi**
+- **bruhbruhbran**
+- **KonanWasHere**
+- **DawnDev**
+- **juliusfrench**
+- **sneakyballz**
+
+🔗 View the full contributor list on GitHub:  
+[Mythic Framework Contributors Graph](https://github.com/Mythic-Framework/mythic-framework/graphs/contributors)
+
 ## Credits
 - Alzar & Dr Nick - Original Maintainers and Creators
 
