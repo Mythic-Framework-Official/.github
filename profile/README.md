@@ -3,16 +3,23 @@
 # Mythic Framework [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A curated list of credits, links, and community information related to the framework.
 
----
-
 ### 🚀 Update Notice
 
-This project now uses a **txAdmin recipe** for simplified setup and deployment.  
-All framework **resources are now separated into individual repositories** for easier maintenance, modular usage, and community contributions.
+This project now uses a **txAdmin recipe** for simplified setup, resource management, and deployment.  
+All core framework **resources are now separated into individual repositories** under the Mythic Framework Official GitHub organization.  
+This change was made to promote modularity, make community contributions easier, and streamline development and updates.
 
-You can find them here: [Mythic-Framework-Official GitHub](https://github.com/orgs/Mythic-Framework-Official/repositories)
+👉 **To get started**, visit the official txAdmin recipe repository:  
+🔗 [Mythic-Framework-Official/txAdminRecipe](https://github.com/Mythic-Framework-Official/txAdminRecipe)
 
----
+The recipe will handle:
+- Automatic cloning of all required resources.
+- Proper resource structure and organization.
+- Configuration for txAdmin-based servers.
+- Easy customization and future updates.
+
+You can explore all the available standalone resources here:  
+🔍 [Mythic-Framework-Official GitHub Repositories](https://github.com/orgs/Mythic-Framework-Official/repositories)
 
 ## Description
 
