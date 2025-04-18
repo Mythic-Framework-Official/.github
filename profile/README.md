@@ -31,9 +31,6 @@ You can explore all the available standalone resources here:
 ## Official Discord
 - [Discord Link](https://discord.gg/N2JARAe8Rp) - Offical Discord for Mythic Framework community-driven support forum!
 
-## Get Started
-- [mythic-framework](https://github.com/Mythic-Framework/mythic-framework) - Get started with the official repository!
-
 ## Project Maintainers
 - Treyyyy - Community Owner
 - Tyh - Community Owner
