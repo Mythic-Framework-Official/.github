@@ -36,6 +36,7 @@ You can explore all the available standalone resources here:
 - Tyh - Community Owner
 - Van Man (DrBooly) - Community Owner
 - akaLucifer - Maintainer
+- Rhodinium - TxAdmin Recipe and reposotory maintainer
 
 ## Credits
 - Alzar & Dr Nick - Original Maintainers and Creators
