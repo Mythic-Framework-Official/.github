@@ -67,9 +67,6 @@ We’re incredibly thankful to everyone who has contributed to the development a
 - **juliusfrench**
 - **sneakyballz**
 
-🔗 View the full contributor list on GitHub:  
-[Mythic Framework Contributors Graph](https://github.com/Mythic-Framework/mythic-framework/graphs/contributors)
-
 ## Credits
 - Alzar & Dr Nick - Original Maintainers and Creators
 
