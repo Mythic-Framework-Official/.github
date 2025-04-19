@@ -10,7 +10,7 @@ All core framework **resources are now separated into individual repositories** 
 This change was made to promote modularity, make community contributions easier, and streamline development and updates.
 
 👉 **To get started**, visit the official txAdmin recipe repository:  
-🔗 [Mythic-Framework-Official/txAdminRecipe](https://github.com/Mythic-Framework-Official/txAdminRecipe)
+🔗 [Mythic-Framework/txAdminRecipe](https://github.com/Mythic-Framework/txAdminRecipe)
 
 The recipe will handle:
 - Automatic cloning of all required resources.
@@ -19,7 +19,7 @@ The recipe will handle:
 - Easy customization and future updates.
 
 You can explore all the available standalone resources here:  
-🔍 [Mythic-Framework-Official GitHub Repositories](https://github.com/orgs/Mythic-Framework-Official/repositories)
+🔍 [Mythic-Framework GitHub Repositories](https://github.com/orgs/Mythic-Framework/repositories)
 
 ## Description
 
